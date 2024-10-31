@@ -21,13 +21,17 @@ Operações bancárias como depósitos, saques e transferências.
 # 3. Como Executar o Projeto (Passo a Passo)
 
 # 4. Tecnologias Utilizadas
-
 Java para lógica de back-end.
 Spring Boot para criar o servidor da aplicação.
 MySQL para armazenamento de dados.
 JWT (JSON Web Token) para autenticação e segurança.
 
-# 5. Resultados Esperados
+# 5. Uso
+Cadastro: O usuário deve inserir dados como nome, CPF e senha.
+Login: Ao entrar, o usuário insere seu CPF e senha.
+Segurança: Todas as requisições são protegidas com autenticação por token.
+
+# 6. Resultados Esperados
 Um sistema que permite que os clientes do banco realizem diversas operações bancárias por meio do Aplicativo. Inclui gerenciamento de contas, transações para fazer transferências, solicitação e gerenciamento de empréstimos, gerenciamento de cartões de crédito e pagamentos de serviços externos, como universidades e telefonia. A conta do cliente permitirá o acesso a todas essas operações.
 
-# 6.Referência 
+# 7.Referência 
