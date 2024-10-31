@@ -9,11 +9,23 @@ Desenvolver um sistema que permite que os clientes do banco realizem diversas op
 
 
 
-# 2. 
+# 2. Funcionalidades
 
-# 3. 
+Cadastro de novos usuários.
+Login seguro com verificação de credenciais.
+Criação e gestão de contas bancárias.
+Sistema de segurança para proteção de dados sensíveis.
+Operações bancárias como depósitos, saques e transferências.
 
-# 4. 
+
+# 3. Como Executar o Projeto (Passo a Passo)
+
+# 4. Tecnologias Utilizadas
+
+Java para lógica de back-end.
+Spring Boot para criar o servidor da aplicação.
+MySQL para armazenamento de dados.
+JWT (JSON Web Token) para autenticação e segurança.
 
 # 5. Resultados Esperados
 Um sistema que permite que os clientes do banco realizem diversas operações bancárias por meio do Aplicativo. Inclui gerenciamento de contas, transações para fazer transferências, solicitação e gerenciamento de empréstimos, gerenciamento de cartões de crédito e pagamentos de serviços externos, como universidades e telefonia. A conta do cliente permitirá o acesso a todas essas operações.
